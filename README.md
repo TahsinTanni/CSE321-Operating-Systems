@@ -18,7 +18,7 @@ This repository contains the lab assignments and solutions for the CSE321: Opera
    git clone https://github.com/yourusername/CSE321-Operating-Systems.git
    ```
 2. Go to the lab folder:
-   ``bash
+   ```bash
    cd Lab_X
    ```
    
